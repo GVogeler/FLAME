@@ -64,8 +64,7 @@ It is highly recommended to use a Python virtual environment.
 
 2.  **Create and activate a virtual environment:**
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    python -m venv venv source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
 
 3.  **Install dependencies from `requirements.txt`:**
